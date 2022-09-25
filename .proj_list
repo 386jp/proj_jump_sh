@@ -1,0 +1,5 @@
+name,description,dir
+d,Development Directory,dev
+doc,Document Directory,Documents
+desk,Desktop Directory,Desktop
+dl,Download Directory,Downloads
